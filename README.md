@@ -16,8 +16,8 @@ The project is organized as follows:
 2. visualize the heatmap/saliency/features to demonstrate what regions of interest contribute to diabetic retinopathy and glaucoma, respectively;
 3. using unlabelled data, augment the training data (semi-supervised learning) and report the variation in classification performance on test data set (where labels are available).
 
-The notebook explaining the approach is available in this repo. If the notebook does not load, you can copy its linnk
-https://github.com/alessiot/Histopathologic-Cancer-Detection/blob/main/Histopathologic%20Cancer%20Detection.ipynb and paste it at https://nbviewer.jupyter.org/ or just use this link https://nbviewer.jupyter.org/github/alessiot/Histopathologic-Cancer-Detection/blob/main/Histopathologic%20Cancer%20Detection.ipynb. However, this display will not show the entire output.
+The notebook explaining the approach is available in this repo. If the notebook does not load, you can try at this link
+https://nbviewer.jupyter.org/github/alessiot/eye_disease_ml/blob/main/Eye_Disease_ML.ipynb.
 
 Examples of retinopathy images, their classifiaction and explanation.
 

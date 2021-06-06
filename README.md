@@ -7,7 +7,7 @@ Date: 05/28/2021
 Status: Complete.
 
 Objective:
-Automated pathology detection for medical images in a relalistic setup, i.e. each image may have multiple pathologies/disorders, and explain the pathology sites in  image data. We assure we work with specialists for diabetic retinopathy and glaucoma and we are interested in a predictive learning model along with feature explanability and self-learning for diabetic retinopathy and glaucoma vs. normal images.
+Automated pathology detection for medical images in a realistic setup, i.e. each image may have multiple pathologies/disorders, and explain the pathology sites in  image data. We assure we work with specialists for diabetic retinopathy and glaucoma and we are interested in a predictive learning model along with feature explanability and self-learning for diabetic retinopathy and glaucoma vs. normal images.
 
 data: from a private Kaggle contest https://www.kaggle.com/c/vietai-advance-course-retinal-disease-detection/overview
 

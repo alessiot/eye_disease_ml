@@ -16,7 +16,7 @@ The project is organized as follows:
 2. visualize the heatmap/saliency/features to demonstrate what regions of interest contribute to diabetic retinopathy and glaucoma, respectively;
 3. using unlabelled data, augment the training data (semi-supervised learning) and report the variation in classification performance on test data set (where labels are available).
 
-Examples of retinopathy images, their classifiaction and explanation.
+Examples of retinopathy images, their classification and explanation.
 
 https://user-images.githubusercontent.com/6719946/117159918-afb88980-ad8e-11eb-9dff-e47503b8f310.mov
 
